@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tyorikan.voicerecordingvisualizer.VisualizerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/visualizer"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:background="@android:color/black"
+    app:numColumns="4"
+
+    app:renderRange="top"
+    >
+
+</com.tyorikan.voicerecordingvisualizer.VisualizerView>

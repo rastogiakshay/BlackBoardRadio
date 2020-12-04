@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlackBoard Radio</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="RECORDER">Recorder</string>
+    <string name="SONG_LIST">Song List</string>
+</resources>
